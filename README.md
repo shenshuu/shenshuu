@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=81A1C0&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Michael!)](https://git.io/typing-svg)
 
-I'm an actuarial science student turned software engineer. I have experience building applications using Javascript, React, Redux, Ruby on Rails, and other technologies. I enjoy learning new things and making new connections!
+I’m a Software Engineer with a background in actuarial science and experience building and maintaining full-stack applications in production environments. I’ve worked with JavaScript, React, Redux, Ruby on Rails, and GraphQL to design end-to-end features, debug complex systems, and improve application performance and reliability. I enjoy solving challenging problems and continuously learning new technologies.
 
 <h2>Technologies</h2>
 <div>
